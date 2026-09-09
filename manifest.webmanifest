@@ -2,7 +2,7 @@
   "name": "Isometric RPG",
   "short_name": "IsoRPG",
   "description": "SDL3 isometric RPG running as a WebAssembly progressive web app.",
-  "start_url": "./isometric_rpg.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",

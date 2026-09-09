@@ -1,6 +1,6 @@
 const CACHE_NAME = "isometric-rpg-v1";
 const CORE_FILES = [
-  "./isometric_rpg.html",
+  "./index.html",
   "./isometric_rpg.js",
   "./isometric_rpg.wasm",
   "./manifest.webmanifest",
